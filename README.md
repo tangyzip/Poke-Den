@@ -3,11 +3,11 @@ Mods for TangyZip's Pixelmon Server
 
 # Pixelmon:
 
-The Curseforge/Twitch client is a prerequisite for playing this mod
+The [Curse Forge](https://download.curseforge.com/) client is a prerequisite for playing this mod
 
 ## Installation:
 
-* Download Pixelmon Reforged Modpack (version 8.4.2) from CurseForge or Twitch
+* Download Pixelmon Reforged Modpack (version 8.4.2) from CurseForge 
 
 * Download **Pixelmon.zip** from the latest release into your **pixelmon/mods** folder and extract
 
