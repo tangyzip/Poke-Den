@@ -1,5 +1,5 @@
 # Poke-Den
-Mods for Pixelmon Server
+Mods for TangyZip's Pixelmon Server
 
 # Pixelmon:
 
