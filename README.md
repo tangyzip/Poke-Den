@@ -7,7 +7,7 @@ The Curseforge/twitch client is a prerequisite for playing this mod
 
 ## Installation:
 
-* Download pixelmon reforged modpack from CurseForge or Twitch
+* Download pixelmon reforged modpack (version 8.4.2) from CurseForge or Twitch
 
 * Download **pixelmon.zip**  into your **pixelmon/mods** folder and extract
 
