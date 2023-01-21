@@ -31,7 +31,7 @@ The [Curse Forge](https://download.curseforge.com/) client is a prerequisite for
 
 ![image](https://user-images.githubusercontent.com/122491600/213842688-c0708da1-c358-4bb2-83b0-3824e4d69ada.png)
 
-* There's going to be about 40 kajillion other server's which appear in your server list by default. I suggest taking the time to delete those ;)
+* There's going to be about 40 kajillion other servers which appear in your server list by default. I suggest taking the time to delete those ;)
 * Add server, name it whatever you want.
 * DM tangyzip or Terry for server address.
 
