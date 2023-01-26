@@ -12,14 +12,15 @@ The [Curse Forge](https://download.curseforge.com/) client is a prerequisite for
 
 ## Installation:
 
-* Download **Pixelmon Modpack** (version 8.4.2) from CurseForge 
+* Download **Pixelmon Modpack** _(version 8.4.2)_ from CurseForge 
 
 ![image](https://user-images.githubusercontent.com/122491600/213842342-a9304a69-80c6-4783-9868-f014dd1bae17.png)
 
 
-* Download `Pixelmon.zip` from the [latest release](https://github.com/tangyzip/Poke-Den/releases/tag/v1.0.0) into your `pixelmon/mods` folder and extract
-
+* Download `Pixelmon.zip` from the [latest release](https://github.com/tangyzip/Poke-Den/releases/tag/v1.0.0) into your `pixelmon/mods` folder and delete all the current mods in that folder then extract. 
   * Not sure where the folder is installed? You can right click and "open folder" on the installed Pixelmon mod in curseforge
+  
+* Cut the general.cfg file and paste it into pixelmon/config/veinminer folder and replace the existing one.
 
 # Launching:
 
